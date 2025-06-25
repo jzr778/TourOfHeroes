@@ -54,7 +54,7 @@
 ### 页面展示
 > 1. 导航
 
-<img src="./images/dashboard.jpeg" alt="dashboard">
+<img src="./images/dashboard.jpeg" alt="dashboard" width=80% height="80%">
 
 > 2. 展示所有角色
 
