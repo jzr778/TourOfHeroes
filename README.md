@@ -54,15 +54,15 @@
 ### 页面展示
 > 1. 导航
 
-<img src="./images/dashboard.jpeg" alt="dashboard" width=80% height="80%">
+<img src="./images/dashboard.jpeg" alt="dashboard">
 
 > 2. 展示所有角色
 
-<img src="./images/heroes.jpg" alt="heroes" width=80% height="80%">
+<img src="./images/heroes.png" alt="heroes">
 
 > 角色细节
 
-<img src="./images/detail.jpg" alt="detail" width=80% height="80%">
+<img src="./images/detail.png" alt="detail">
 
 | 前端地址| 后端地址|
 |-|-|
