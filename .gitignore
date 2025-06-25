@@ -1,1 +1,5 @@
 .vs/
+/Repository/bin/
+/Repository/obj/
+/Service/bin/
+/Service/obj/
