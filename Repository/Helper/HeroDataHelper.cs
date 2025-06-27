@@ -14,7 +14,7 @@ namespace Repository.Helper
         /// <summary>
         /// 将Entity转换为DTO
         /// </summary>
-        public static HeroSkill HeroSkillToDTO(HeroSkillEntity entity, bool includeHero = false)
+        public static HeroSkill HeroSkillToDTO(HeroSkillEntity entity)
         {
             if (entity == null) return null;
 
